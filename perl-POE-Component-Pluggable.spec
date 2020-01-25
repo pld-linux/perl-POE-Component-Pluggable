@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	POE
 %define	pnam	Component-Pluggable
 Summary:	POE::Component::Pluggable - A base class for creating plugin-enabled POE Components
