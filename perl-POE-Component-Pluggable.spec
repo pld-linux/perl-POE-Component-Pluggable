@@ -8,7 +8,7 @@ Summary:	POE::Component::Pluggable - A base class for creating plugin-enabled PO
 Summary(pl.UTF-8):	POE::Component::Pluggable - klasa bazowa do tworzenia komponentów POE jako wtyczek
 Name:		perl-POE-Component-Pluggable
 Version:	1.26
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
